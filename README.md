@@ -1,4 +1,6 @@
-# GiveLibAck (Give {my} Lib{rary with} Ack{nowledgment})
+# GiveLibAck
+Give {my} Lib{rary with} Ack{nowledgment}
+Give {my} Li{brary} Back
 Web Dapp to track all the books from your library which have been lended to friends and colleagues.
 A true bond between the analogue and digital world.
 ### ToDo
